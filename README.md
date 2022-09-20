@@ -19,3 +19,6 @@
 
 ## 2022.09.20
 민서 : 인프런 강의 섹션 6 끝까지 (블로그 주소 :  https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84-Sorting-and-Searching), 백준 함수 끝까지 완료(블로그 주소 : https://velog.io/@rosesua318/%ED%95%A8%EC%88%98-Java)
+
+## 2022.09.21
+민서 : 인프런 강의 섹션 7 이진트리 레벨탐색까지, 백준 문자열 5번까지 완료
