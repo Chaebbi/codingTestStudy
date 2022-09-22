@@ -25,3 +25,6 @@
 
 ## 2022.09.22
 민서 : 인프런 강의 섹션 7 끝까지 (블로그 주소 : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84-Recursive-Tree-Graph), 백준 문자열 끝까지 완료(블로그 주소 : https://velog.io/@rosesua318/%EB%AC%B8%EC%9E%90%EC%97%B4-Java)
+
+## 2022.09.23
+민서 : 인프런 강의 섹션 8 수열 추측하기까지, 백준 기본수학1 4번까지 완료
