@@ -34,3 +34,6 @@
 
 ## 2022.09.25
 민서 : 인프런 강의 섹션 9 최대수입스케쥴까지, 백준 기본수학2 3번까지 완료
+
+## 2022.09.26
+민서 : 인프런 강의 섹션 9 끝까지 (블로그 주소 : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84-Greedy-Algorithm), 백준 기본수학 2 끝까지 완료(블로그 주소 : https://velog.io/@rosesua318/%EA%B8%B0%EB%B3%B8-%EC%88%98%ED%95%99-2-Java)
