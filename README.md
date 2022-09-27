@@ -40,3 +40,6 @@
 
 ## 2022.09.27
 민서 : 인프런 강의 섹션 10 최대부분증가수열까지, 백준 정렬 6번까지 완료
+
+## 2022.09.28
+민서 : 인프런 강의 섹션 10 끝까지 (블로그 주소 : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%84-Dynamic-programming), 백준 정렬 끝까지 완료(블로그 주소 : https://velog.io/@rosesua318/%EC%A0%95%EB%A0%AC-Java)
