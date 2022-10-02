@@ -1,41 +1,39 @@
 package sec07;
 
-// 이진트리 레벨탐색(BFS : Breadth-First Search)
-
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main7 {
+// Tree 말단노드까지의 가장 짧은 경로 BFS : 최단거리는 BFS
+public class Main10 {
     Node root;
-    public void BFS(Node root){
+    public int BFS(Node root) {
         Queue<Node> Q = new LinkedList<>();
         Q.offer(root);
-        // level
         int L = 0;
         while(!Q.isEmpty()) {
-            int len = Q.size(); //queue에 들어있는 원소 수
-            System.out.print(L + " : ");
-            for (int i=0; i<len; i++) {
+            // Level의 길이 size
+            int len = Q.size();
+            for(int i=0; i<len; i++) {
                 Node cur = Q.poll();
-                System.out.print(cur.data + " ");
+                // 말단노드 확인
+                if(cur.rt == null && cur.lt == null)  return L;
                 if(cur.lt != null) Q.offer(cur.lt);
                 if(cur.rt != null) Q.offer(cur.rt);
+
             }
             L++;
-            System.out.println();
         }
+        return 0;
     }
+
     public static void main(String args[]) {
-        Main7 tree = new Main7();
+        Main10 tree = new Main10();
         tree.root = new Node(1);
         tree.root.lt = new Node(2);
         tree.root.rt = new Node(3);
         tree.root.lt.lt = new Node(4);
         tree.root.lt.rt = new Node(5);
-        tree.root.rt.lt = new Node(6);
-        tree.root.rt.rt = new Node(7);
 
-        tree.BFS(tree.root);
-
+        System.out.println(tree.BFS(tree.root));
     }
 }
