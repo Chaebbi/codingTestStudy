@@ -49,3 +49,6 @@
 
 ## 2022.10.06
 민서 : 백준 자료구조1 끝까지 (블로그 주소 : https://velog.io/@rosesua318/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1)
+
+## 2022.10.07
+민서 : 백준 자료구조1 (연습) 끝까지 (블로그 주소 : https://velog.io/@rosesua318/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-%EC%97%B0%EC%8A%B5)
