@@ -2,7 +2,7 @@ package com.example.demo.sel400;
 
 import java.util.Scanner;
 
-public class Main {
+public class Q9095 {
     static int cnt = 0;
 
     public static void main(String args[]) {
